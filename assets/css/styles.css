@@ -26,7 +26,7 @@
 }
 
 /*========== Responsive typography ==========*/
-@media screen and (min-width: 1150px) {
+@media screen and (min-width: 905px) {
   :root {
     --normal-font-size: 1rem;
   }
@@ -95,7 +95,7 @@ a {
 }
 
 /* Navigation for mobile devices */
-@media screen and (max-width: 1150px) {
+@media screen and (max-width: 905px) {
   .nav__menu {
     position: fixed;
     left: -100%;
@@ -229,7 +229,7 @@ a {
 
 /*=============== BREAKPOINTS ===============*/
 /* For large devices */
-@media screen and (min-width: 1150px) {
+@media screen and (min-width: 905px) {
   .container {
     margin-inline: auto;
   }
@@ -262,3 +262,13 @@ a {
     column-gap: 3.5rem;
   }
 }
+
+
+
+
+
+
+
+
+
+
